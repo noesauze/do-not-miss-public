@@ -1,0 +1,20 @@
+.DS_Store
+
+# Xcode user data
+*.xcuserstate
+Do Not Miss.xcodeproj/xcuserdata/
+Config/Local.xcconfig
+
+# Local build artifacts
+Products/
+build/*
+!build/export/
+build/export/*
+!build/export/ExportOptions.plist
+
+# Derived data and temporary logs
+build/DerivedData/
+build/archive/
+build/dmg/
+build/notarization/
+build/archive_debug.log
