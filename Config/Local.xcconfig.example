@@ -1,0 +1,8 @@
+// Copy this file to Config/Local.xcconfig and replace the placeholder values.
+
+APP_DEVELOPMENT_TEAM = YOUR_REAL_TEAM_ID
+APP_BUNDLE_IDENTIFIER = your.bundle.identifier
+GOOGLE_CLIENT_ID = your-google-client-id.apps.googleusercontent.com
+GOOGLE_CALLBACK_SCHEME = com.googleusercontent.apps.your-google-client-id
+GOOGLE_REDIRECT_URI = com.googleusercontent.apps.your-google-client-id:/oauth-callback
+BACKEND_BASE_URL = https://do-not-miss-backend.vercel.app
